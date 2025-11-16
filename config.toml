@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = ""
+included-patches = "'Hide ads' 'Video ads' 'Disable double tap actions' 'Swipe controls' 'Navigation buttons' 'Hide end screen cards' 'Hide end screen suggested video' 'Return YouTube Dislike' 'Shorts autoplay' 'Change start page' 'Disable resuming Shorts on startup' 'Bypass image region restrictions' 'GmsCore support' 'Open links externally' 'Loop video' 'Force original audio' 'Video quality' 'Playback speed'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
