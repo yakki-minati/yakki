@@ -6,11 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = "'Hide ads' 'Video ads' 'Disable double tap actions' 'Swipe controls' 'Navigation buttons' 'Hide end screen cards' 'Hide end screen suggested video' 'Return YouTube Dislike' 'Shorts autoplay' 'Change start page' 'Disable resuming Shorts on startup' 'Bypass image region restrictions' 'GmsCore support' 'Open links externally' 'Loop video' 'Force original audio' 'Video quality' 'Playback speed'"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+included-patches = "'Limit feed to followed profiles' 'Hide explore feed' 'Hide navigation buttons' 'Hide Stories from Home' 'Hide suggested content' 'Open 
